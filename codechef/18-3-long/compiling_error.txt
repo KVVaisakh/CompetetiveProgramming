@@ -1,0 +1,19 @@
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp: In function 'std::vector<long long int> query(long long int, long long int, long long int, long long int, long long int)':
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:90:38: error: expected ';' before ')' token
+     for(l<v1.size() && temp.size()<51)
+                                      ^
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:92:5: error: expected primary-expression before 'for'
+     for(r<v2.size() && temp.size()<51)    
+     ^
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:92:5: error: expected ';' before 'for'
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:92:5: error: expected primary-expression before 'for'
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:92:5: error: expected ')' before 'for'
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:92:38: error: expected ';' before ')' token
+     for(r<v2.size() && temp.size()<51)    
+                                      ^
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:94:5: error: expected primary-expression before 'return'
+     return temp;
+     ^
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:94:5: error: expected ';' before 'return'
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:94:5: error: expected primary-expression before 'return'
+E:\coding\c++\codecheff\18-3-long\PSHTRG.cpp:94:5: error: expected ')' before 'return'
